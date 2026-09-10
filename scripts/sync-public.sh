@@ -8,4 +8,6 @@ cp index.html public/
 cp wholecake.html public/
 cp style.css public/
 cp script.js public/
+cp robots.txt public/
+cp sitemap.xml public/
 cp -R img/. public/img/
